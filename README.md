@@ -21,7 +21,7 @@
 </head>
 <body>
 <div class="logo">
-<img src="image/google icons.png" alt="Dropbox logo">
+
 <h4>Dropbox</h4>
 <ul>
 <li>Why dropbox?</li>
